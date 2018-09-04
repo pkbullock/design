@@ -11,6 +11,13 @@ Contains useful scripts and graphical design elements
     - Seperate Adobe license terms in the file
     - Requires Adobe Illustrator CC
 
+- Adobe Illustrator Script to export AI files to PNG files
+    - Run the script, this will prompt you for a location for the AI files
+    - Will convert and place PNG files in the same location
+    - Based on the SaveToPDF sample in C:\Program Files\Adobe\Adobe Illustrator CC 2018\Scripting\Sample Scripts\JavaScript\Miscellaneous
+    - Seperate Adobe license terms in the file
+    - Requires Adobe Illustrator CC
+
 
 
 # References
@@ -19,6 +26,9 @@ Sample scripts for Adobe Illustrator - [https://wwwimages2.adobe.com/content/dam
 
 Adobe Illustrator Scripting Guides - 
 [https://www.adobe.com/devnet/illustrator/scripting.html](https://www.adobe.com/devnet/illustrator/scripting.html)
+
+Adobe Illustrator - JavaScript Guide
+[https://wwwimages2.adobe.com/content/dam/acom/en/devnet/illustrator/pdf/Illustrator_JavaScript_Scripting_Reference_2017.pdf](https://wwwimages2.adobe.com/content/dam/acom/en/devnet/illustrator/pdf/Illustrator_JavaScript_Scripting_Reference_2017.pdf)
 
 
 # MIT License
